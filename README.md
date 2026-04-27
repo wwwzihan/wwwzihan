@@ -11,7 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Zihan Wang
-# Hi there 👋
+# Zihan Wang 👋
 - 📫 How to reach me: wangzihan@mails.neu.edu.cn
 - 🔭 I’m currently working on Northeastern University (China)
